@@ -1,5 +1,5 @@
 # ARP.jl
-[![Build Status](https://github.com/pebeto/ARPJulia.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/pebeto/ARPJulia.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Build Status](https://github.com/pebeto/ARP.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/pebeto/ARPJulia.jl/actions/workflows/CI.yml?query=branch%3Amain)
 This repository contains the [Flux.jl](https://fluxml.ai/) implementation of the Auto-Rotating Perceptrons (Saromo, Villota, and Villanueva) for dense layers of artificial neural networks.
 
 ## What is an Auto-Rotating Perceptron? 
